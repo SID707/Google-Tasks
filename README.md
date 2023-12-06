@@ -3,6 +3,18 @@
 <hr>
 The goal of the project is to create a standalone website for google tasks because if you visit tasks.google.com there is nothing! You can only access it from other google suite websites such as google calendar but for whatever reason it does not have its own website. Hence we are creating a website where you can add your tasks and it will sync with your Google Tasks smartphone app giving you full accessibility to use google tasks either from your phone or your computer!!
 <hr>
+<h2>Flow Of Implementation :-</h2>
+<h3>
+  <ul>
+    <li>Make The Login Page (Ready and Published on GitHub)</li>
+    <li>Make the To-Do List Page (In the Making)</li>
+    <li>Connect the two pages and Implement the Google Login and Tasks API along with a database for separate account creation and login (Pending)</li>
+    <li>Make sure that syncing with Google is working (Pending)</li>
+    <li>Make the website as close to an authentic google looking site as possible (Pending)</li>
+    <li>Publish the Website (Pending)</li>
+  </ul>
+</h3>
+<hr>
 <h2>Current Progress :- </h2>
 <h3>Currently we have completed making the login page for our website where the user can either login with their google account or create a new account in our database to store their tasks and to-dos</h3>
 <hr>
