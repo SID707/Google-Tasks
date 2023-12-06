@@ -7,6 +7,6 @@ The goal of the project is to create a standalone website for google tasks becau
 <h3>Currently we have completed making the login page for our website where the user can either login with their google account or create a new account in our database to store their tasks and to-dos</h3>
 <hr>
 <h2>What's Left :- </h2>
-<h3>We have the to-do list page in the works which we will be uploading to this repo soon. After that we will connect these two pages and implement the google login and the Google Tasks API such that it syncs with your google account and smartphone app. We will also be addind a database for separate account creations and login.  After that our goal will be to make the website as close to an authentic google looking site as possible and then publish it!</h3>
+<h3>We have the to-do list page in the works which we will be uploading to this repo soon. After that we will connect these two pages and implement the google login and the Google Tasks API such that it syncs with your google account and smartphone app. We will also be adding a database for separate account creations and login.  After that our goal will be to make the website as close to an authentic google looking site as possible and then publish it!</h3>
 <br>
 <h2>Thanks a lot for Supporting :)</h2>
